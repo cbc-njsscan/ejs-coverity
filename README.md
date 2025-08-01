@@ -1,6 +1,6 @@
 ![](cover.png)
 
-**A set of challenges to hack implementations of DeFi in Ethereums.** Featuring flash loans, oracles, governance, NFTs, lending pools, and more!
+**A sets of challenges to hack implementations of DeFi in Ethereums.** Featuring flash loans, oracles, governance, NFTs, lending pools, and more!
 
 Created by [@tinchoabbate](https://twitter.com/tinchoabbate) at OpenZeppelin
 
