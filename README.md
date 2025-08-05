@@ -4,7 +4,7 @@
 
 Created by [@tinchoabbate](https://twitter.com/tinchoabbate) at OpenZeppelin
 
-## Plays
+## Play
 
 Visit [damnvulnerabledefi.xyz](https://damnvulnerabledefi.xyz)!
 
